@@ -142,7 +142,6 @@ Below you find the functional requirements for each project option
 
 ### Optional
 
-* Actual **data persistence** across sessions (use a file or database).
 * You are allowed to **add custom features**.
 
 ---
@@ -173,11 +172,10 @@ Below you find the functional requirements for each project option
     * **Min/Max number of players per match**
     * **Scoring rule (points)**
     * **Description**
-    * **Variant**
     * … (you may add more fields)
-* There must be **at least a few predefined game types**, e.g.:
+* There must be **at least two predefined game types**, e.g.:
 
-    * Java, Catan, Carcassonne, Chess, …
+    * Monopoly, Risiko, Chess, …
 * The user can:
 
     * **Select**, **edit**, **create**, **view** and **delete** game types
@@ -217,7 +215,6 @@ Below you find the functional requirements for each project option
 
 ### Optional
 
-* Actual **data persistence** across sessions (use a file or database).
 * You are allowed to **add custom features**.
 
 ---
@@ -278,8 +275,7 @@ Below you find the functional requirements for each project option
 
 ### Optional
 
-* Actual **data persistence** across sessions (use a file or database).
-* You are allowed to **add custom features** (e.g. packing list).
+* You are allowed to **add custom features**.
 
 ---
 
