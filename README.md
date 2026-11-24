@@ -9,6 +9,20 @@ The powerpoint and BB are always right. If the readme differs from them, follow 
 
 ---
 
+## Initialization
+> We recommend IntelliJ; it handles Maven import and run configs automatically.
+
+### IntelliJ
+
+1. **Open the project by the root `pom.xml`**  
+   *File → Open…* → select the **root `pom.xml`** → *Open as Project*.
+2. **Verify SDKs (Java 21 everywhere)**  
+   1) *File → Project Structure → Project* → SDK = **21**; Language level = **21**.  
+   2) *Project Structure → Modules* → ensure modules inherit the Project SDK.  
+   3) *Settings → Build Tools → Maven → Importing* → JDK for importer = **21**.
+  
+---
+
 ## Project Overview
 
 * Choose **exactly one** of the following:
